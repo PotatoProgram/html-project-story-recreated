@@ -1,3 +1,17 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/*h1{
+    font-family: 'Glass Antique', cursive;
+}*/
+
+body{
+    background-color: #fcea92;
+    color: #9b0747
+}
+
+@font-face{
+    font-family: "CroissantOne";
+    src: url("fonts/CroissantOne-Regular.ttf");  
+  }
