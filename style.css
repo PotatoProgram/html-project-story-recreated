@@ -2,16 +2,21 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*h1{
-    font-family: 'Glass Antique', cursive;
-}*/
+h1{
+    font-family: 'Sofia', cursive;
+    font-size: 50px;
+}
+
+p{  font-family: 'Crimson Text', serif;
+    font-family: 'Itim', cursive;
+}
 
 body{
     background-color: #fcea92;
     color: #9b0747
 }
 
-@font-face{
+/*@font-face{
     font-family: "CroissantOne";
     src: url("fonts/CroissantOne-Regular.ttf");  
-  }
+  }*/
