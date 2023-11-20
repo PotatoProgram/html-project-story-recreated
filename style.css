@@ -5,6 +5,7 @@
 h1{
     font-family: 'Sofia', cursive;
     font-size: 50px;
+    color: #CA314A;
 }
 
 p{  font-family: 'Crimson Text', serif;
@@ -12,13 +13,37 @@ p{  font-family: 'Crimson Text', serif;
 }
 
 body{
-    background-color: #fcea92;
-    color: #9b0747
+    background-color: #DAD1C3;
+    color: #38192F;
+}
+
+img{
+    width: 400px;
+}
+
+/* button and question rules */
+.question{
+    text-align: center;
+    font-family: 'Sofia', cursive;
+    font-size: 30px;
+}
+
+.centerButton{
+    text-align: center;
+}
+
+button a{
+    color: #38192F;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Itim', cursive;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
 }
 
 .options{
     border: none;
-    color: white;
+    background-color: #ca314a;
     padding: 16px 32px;
     text-align: center;
     text-decoration: none;
@@ -29,12 +54,7 @@ body{
     cursor: pointer;
     border-radius: 20px;
 }
-.question{
-    text-align: center;
-    font-family: 'Sofia', cursive;
-}
 
-.centerButton{
-    text-align: center;
-    color: green;
+button:hover{
+    background-color:#AAC6C3;
 }
