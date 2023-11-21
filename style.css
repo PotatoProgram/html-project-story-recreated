@@ -4,6 +4,7 @@ p{
 h3{
     color:red;
 }
+
 h1{
     font-family: 'Sofia', cursive;
     font-size: 50px;
@@ -21,6 +22,13 @@ body{
 
 img{
     width: 400px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /* button and question rules */
